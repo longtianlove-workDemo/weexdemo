@@ -1,6 +1,6 @@
-# aswsome-project
+# awesome-project
 
-> aswsome-project
+> awesome-project
 
 ## getting start
 

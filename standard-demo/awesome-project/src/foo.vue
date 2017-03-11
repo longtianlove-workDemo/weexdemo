@@ -15,11 +15,11 @@
   export default {
     data: {
       logoUrl: 'https://alibaba.github.io/weex/img/weex_logo_blue@3x.png',
-      target: 'World'
+      target: 'tiantian'
     },
     methods: {
       update: function (e) {
-        this.target = 'Weex'
+        this.target = 'long'
         console.log('target:', this.target)
       }
     }
